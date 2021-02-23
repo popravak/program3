@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "\n\nProgram3/main\n\n"
+echo "program3/main"
